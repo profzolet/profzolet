@@ -1,0 +1,5 @@
+- 👋 Oi, Eu Sou @professor Luiz zolet
+- 👀 Sou Professor de Matemática e Pensamento Computacional
+- 🌱 Este Repositorio é para uso de tabalhos escolares
+- 💞️ Esta vinculado as alunos do Curso de Pensamento Computacional
+- 📫 Email: zolet.luiz@escola.pr.gov.br
